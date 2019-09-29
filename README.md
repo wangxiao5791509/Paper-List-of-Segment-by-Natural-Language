@@ -11,4 +11,6 @@ Paper-List-of-Segment-by-Natural-Language
 
 5. Dynamic Multimodal Instance Segmentation Guided by Natural Language Queries, Edgar Margffoy-Tuay, Juan C. P´erez, Emilio Botero, and Pablo Arbel´aez, [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Edgar_Margffoy-Tuay_Dynamic_Multimodal_Instance_ECCV_2018_paper.pdf) [[Code]](https://github.com/BCV-Uniandes/DMS) 
 
-6. 
+6. Cross-Modal Self-Attention Network for Referring Image Segmentation, Linwei Ye, Mrigank Rochan, Zhi Liu, Yang Wang; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 10502-10511 [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Ye_Cross-Modal_Self-Attention_Network_for_Referring_Image_Segmentation_CVPR_2019_paper.html) 
+
+7. 
